@@ -1,0 +1,7 @@
+{
+  "name": "cilaform",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
